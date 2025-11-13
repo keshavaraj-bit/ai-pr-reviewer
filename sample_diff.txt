@@ -1,0 +1,9 @@
+diff --git a/app.py b/app.py
+--- a/app.py
++++ b/app.py
+@@ -1,5 +1,7 @@
+ def add(a, b):
+-    return a + b
++    print("Adding:", a, b)
++    return a + b + 1  # bug: extra +1
+
