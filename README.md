@@ -39,6 +39,7 @@ No API keys • No cloud • Runs fully offline after first run.
 - 📄 **Strict JSON output:**  
 
 ```json
+```json
 {
   "summary": "",
   "issues": [],
