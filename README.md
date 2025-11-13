@@ -30,13 +30,13 @@ No API keys • No cloud • Runs fully offline after first run.
 
 ---
 
-## 🚀 Features
+## Features
 
-- 🧠 **Offline Local AI (Qwen 0.5B)** – runs completely on CPU  
-- 🔐 **100% Private** – your code NEVER leaves your machine  
-- 📦 **Auto-downloads model** into `models/`  
-- 📝 **Analyzes git diffs** and generates structured reviews  
-- 📄 **Strict JSON output:**  
+- **Offline Local AI (Qwen 0.5B)** – runs completely on CPU  
+- **100% Private** – your code NEVER leaves your machine  
+- **Auto-downloads model** into `models/`  
+- **Analyzes git diffs** and generates structured reviews  
+- **Strict JSON output:**  
 
 ```json
 ```json
